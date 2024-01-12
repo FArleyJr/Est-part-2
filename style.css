@@ -1,0 +1,329 @@
+  html{
+    box-sizing: border-box;
+  }
+  
+  .cabecalho01{
+    display:flex;
+    justify-content: space-between;
+    background-color: lightgray;
+    font-size: 11px;
+  }
+
+  .pipe {
+    margin: 1px;
+  }
+
+  .cabecalho01 #lugar1{
+    background-color: lightgray;
+    border: none;
+    font-size: 13px;
+    }
+
+  .cabecalho01 #lugar2{
+    background-color: lightgray;
+    border: none;
+    font-size: 13px;
+    margin-left:2px;
+  }
+
+  .funcoes #lingua{
+    border: none;
+    font-size: 13px;
+    background-color: lightgray;
+    color:gray;
+
+  }
+
+  .funcoes #suporte{
+    border: none;
+    font-size: 13px;
+    background-color: lightgray;
+    font-weight:bold;
+  }
+
+  .cabecalho02{
+    background-color: #f3f3f3 ;
+    color:black;
+    padding: 20px;
+
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+
+  #logo{
+  background-image: url('Imagens/logo_igreja_verde-300x87.png');
+  background-size: cover;
+  background-position: center;
+  border: none;
+  height:102px;
+  width:352px;
+
+  }
+  
+  .opcoes {
+    margin-top:35px;
+    border: none;
+    display:flex;
+    justify-content: space-between;
+  }
+
+
+  .opcoes01 select{
+  border:none;
+  background-color:#f3f3f3;
+  color:#ed9035;
+  margin-right: 25px;
+  font-size: 15px;
+  font-weight: bold;
+  }
+
+  .opcoes02 select{
+  border:none;
+  background-color:#f3f3f3  ;
+  margin-right: 25px;
+  font-size: 15px;
+  font-weight: bold;
+  }
+
+  #Contato{
+    background-image: url('Imagens/BtnWhats.png');
+    background-size: cover;
+    background-position: center;
+    height: 75px;
+    width: 366px;
+    border: none;
+  }
+
+  hr{
+    margin-top: 30px;
+  }
+
+  .rodape1{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+  }
+
+  .ApoioEspiritual{
+    box-sizing: border-box;
+  }
+    
+  .cabecalho01{
+    display:flex;
+    justify-content: space-between;
+    background-color: lightgray;
+    font-size: 11px;
+  }
+  
+  .pipe {
+    margin: 1px;
+  }
+  
+  .cabecalho01 #lugar1{
+    background-color: lightgray;
+    border: none;
+    font-size: 13px;
+    }
+  
+  .cabecalho01 #lugar2{
+    background-color: lightgray;
+    border: none;
+    font-size: 13px;
+    margin-left:2px;
+  }
+  
+  .funcoes #lingua{
+    border: none;
+    font-size: 13px;
+    background-color: lightgray;
+    color:gray;
+  }
+  
+  .funcoes #suporte{
+    border: none;
+    font-size: 13px;
+    background-color: lightgray;
+    font-weight:bold;
+  }
+  
+  .cabecalho02{
+    background-color: #f3f3f3 ;
+    color:black;
+    padding: 20px; 
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
+  #logo{
+    background-image: url('Imagens/logo_igreja_verde-300x87.png');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    height:102px;
+    width:352px;
+  }
+    
+  .opcoes {
+    margin-top:35px;
+    border: none;
+    display:flex;
+    justify-content: space-between;
+  }
+  
+  
+  .opcoes01 select{
+    border:none;
+    background-color:#f3f3f3;
+    color:#ed9035;
+    margin-right: 25px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .opcoes02 select{
+    border:none;
+    background-color:#f3f3f3  ;
+    margin-right: 25px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  #Contato{
+    background-image: url('Imagens/BtnWhats.png');
+    background-size: cover;
+    background-position: center;
+    height: 75px;
+    width: 366px;
+    border: none;
+  }
+  
+  hr{
+    margin-top: 30px;
+    color:rgb(79, 55, 55);
+  }
+  
+  /*--------------------------*/
+
+  .rodape1{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 100px;
+  }
+  
+  .ApoioEspiritual, .Anuncie, .Contaato{
+    margin-right:30px;
+    align-items: center;
+    border: solid 2px black;
+    width:280px;
+    height:350px;
+    box-shadow: 9px 10px 25px rgba(0, 0, 2, 0.2);
+  }
+
+  .Joelhos, .Tv, .Balao{
+   margin-top:35px; 
+  }
+
+  .rodape1 h3{
+    margin-top:10px;
+  }
+
+  .primeiro, .segundo, .terceiro{
+    margin-right:10px;
+    font-size:15px;
+    font:Verdana;  
+  }
+
+  #EnviarMsg, #EnviarAnun, #Comunicacao{
+    margin-top: 15px;
+    color:white;
+    background-color: rgb(79, 55, 55);
+    font-size:15px;
+  }
+
+  /*---------------------*/
+
+  #navegando, #Taiobeiras{
+    border:none;
+    font-size:15px;
+    color:rgb(79, 55, 55);
+    background-color: transparent;
+    margin-top: 140px;
+  }
+
+  .rodape2 hr{
+    margin-top: 2px;
+  }
+
+  .part2{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 100px;
+  }
+
+  .LadoEs{
+    float:left;
+    width:350px;
+    
+  }
+
+  #Final{
+    margin-top: 35px;
+    margin-right: 10px;
+    border:none;
+    font-size:15px;
+    color:rgb(79, 55, 55);
+    background-color: transparent;
+  }
+
+  .LadoDir{
+    float:right;
+    margin-top: 45px;
+    text-align: right;
+  }
+
+  #Final2{
+    border:none;
+    font-size:15px;
+    color:rgb(79, 55, 55);
+    background-color: transparent;
+    text-align: right;
+  }
+
+  .Icones{
+    margin-top: 50px;
+    margin-right: 8px;
+  }
+
+  .Icones .rede{
+    width: 25px; 
+    height: 25px; 
+    margin-right: 20px; 
+    opacity: 0.6;
+  }
+
+  .part3{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 5px;  
+  }
+
+  #F{
+    border:none;
+    font-size:15px;
+    color:rgb(79, 55, 55);
+    background-color: transparent;
+  }
+
+  .FinalEs{
+    float:left;
+  }
+
+  .FinalDir{
+    float:right;
+    text-align: right;
+  }
